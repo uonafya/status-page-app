@@ -1,7 +1,7 @@
 {
 	"version":"1.0.0",
-	"name":"JPHES Support",
-	"description":"JPHES Support",
+	"name":"Systems Status",
+	"description":"Status Page",
 	"launch_path":"index.html",
 	"icons":{"16":null,
 	"48":"res/system-status.png",
@@ -10,7 +10,7 @@
 	"developer":{
 	"url":"",
 	"name":"Dennis Banga",
-	"email":"dbanga@healthit.uonbi.ac.ke"
+	"email":""
 	},
 	"installs_allowed_from":null,
 	"default_locale":"en",
